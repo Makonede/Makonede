@@ -15,7 +15,9 @@ I'm a hobbyist programmer in a variety of languages, including:
 - 05AB1E
 
 # ✨ Current Projects
-- [Link Cannon](https://github.com/Makonede/LinkCannon) is a Breath of the Wild mod intended to simulate BTB setups to help with speedrun routing.
+## 🚀 [Link Cannon][1]
+[![BTB](https://repository-images.githubusercontent.com/594929966/db09df55-f0ea-40e7-bd3e-dc1a84c60455)][1]
+- [Link Cannon][1] is a Breath of the Wild mod intended to simulate BTB setups to help with speedrun routing.
   - The idea came up during a Best Theoretical Time (BTT) discussion in the Breath of the Wild Speedrunning Discord server.
   - A new BTB from Oman Au Shrine to Keh Namut Shrine was found. Unfortunately, it was extremely inconsistent, and the best one anybody got only saved one frame.
   - Somebody suggested the idea of a speed clip into the Keh Namut Shrine door. For obvious reasons, this was highly impractical, and there was essentially no chance of it happening.
@@ -24,3 +26,6 @@ I'm a hobbyist programmer in a variety of languages, including:
 
 # 💬 Discord
 If you would like to talk to me, my Discord Tag is `Makonede#0001`.
+
+
+[1]: https://github.com/Makonede/LinkCannon
