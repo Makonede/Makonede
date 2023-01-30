@@ -15,7 +15,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 - 05AB1E
 
 # ✨ Current Projects
-## 🚀 [Link Cannon][1]
+## [🚀 Link Cannon][1]
 [![BTB](https://repository-images.githubusercontent.com/594929966/db09df55-f0ea-40e7-bd3e-dc1a84c60455)][1]
 - [Link Cannon][1] is a Breath of the Wild mod intended to simulate BTB setups to help with speedrun routing.
   - The idea came up during a Best Theoretical Time (BTT) discussion in the Breath of the Wild Speedrunning Discord server.
