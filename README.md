@@ -17,6 +17,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 # ✨ Current Projects
 ## [🚀 Link Cannon][1]
 [![BTB](https://repository-images.githubusercontent.com/594929966/db09df55-f0ea-40e7-bd3e-dc1a84c60455)][1]
+
 - [Link Cannon][1] is a Breath of the Wild mod intended to simulate BTB setups to help with speedrun routing.
   - The idea came up during a Best Theoretical Time (BTT) discussion in the Breath of the Wild Speedrunning Discord server.
   - A new BTB from Oman Au Shrine to Keh Namut Shrine was found. Unfortunately, it was extremely inconsistent, and the best one anybody got only saved one frame.
