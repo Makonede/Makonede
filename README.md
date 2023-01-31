@@ -23,7 +23,7 @@ I'm a hobbyist programmer in a variety of languages, including:
   - A new BTB from Oman Au Shrine to Keh Namut Shrine was found. Unfortunately, it was extremely inconsistent, and the best one anybody got only saved one frame.
   - Somebody suggested the idea of a speed clip into the Keh Namut Shrine door. For obvious reasons, this was highly impractical, and there was essentially no chance of it happening.
   - Somebody else gave a new idea: a mod that would let you input variables and would simulate a BTB. This would allow for fine-tuning of the settings until a desired result was reached.
-  - This idea was the foundation for the creation of this mod. I named it after a joke from Jhent, an active BotWSR community member, while he was referring to my mod.
+  - This idea was the foundation for the creation of this mod. I named it after a joke from Prahaha, an active BotWSR community member, while he was referring to my mod.
 
 # 💬 Discord
 If you would like to talk to me, my Discord Tag is `Makonede#0001`.
