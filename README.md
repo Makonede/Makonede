@@ -25,8 +25,14 @@ I'm a hobbyist programmer in a variety of languages, including:
   - Somebody else gave a new idea: a mod that would let you input variables and would simulate a BTB. This would allow for fine-tuning of the settings until a desired result was reached.
   - This idea was the foundation for the creation of this mod. I named it after a joke from Prahaha, an active BotWSR community member, while he was referring to my mod.
 
+## [⚔ zelda.sr][2]
+[![zelda.sr Logo](https://repository-images.githubusercontent.com/606491209/5eec664c-522c-469b-b988-f1e138b6490f)][2]
+
+- [zelda.sr](https://zelda.sr) is a database for Zelda speedrun routes, glitches, tech, and science.
+
 # 💬 Discord
 If you would like to talk to me, my Discord Tag is `Makonede#0001`.
 
 
 [1]: https://github.com/Makonede/LinkCannon
+[2]: https://github.com/Makonede/zelda.sr
