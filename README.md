@@ -7,9 +7,9 @@ I'm a hobbyist programmer in a variety of languages, including:
 - C++ (C++23)
 - C (C23)
 - Python (CPython)
-- HTML
+- HTML (HTML5)
 - Sass (Dart Sass)
-- TypeScript XML
+- TypeScript XML (ES2022)
 - Shell script (Bash)
 - Batch file
 - 05AB1E
