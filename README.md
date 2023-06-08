@@ -31,7 +31,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 - [zelda.sr](https://zelda.sr) is a database for Zelda speedrun routes, glitches, tech, and science.
 
 # 💬 Discord
-If you would like to talk to me, my Discord Tag is `Makonede#0001`.
+If you would like to talk to me, my Discord is `makonede`.
 
 
 [1]: https://github.com/Makonede/LinkCannon
