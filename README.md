@@ -8,7 +8,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 - C (C23)
 - Python (CPython)
 - HTML (HTML5)
-- SCSS (Dart Sass)
+- PostCSS
 - TypeScript XML (ES2022)
 - Shell script (Bash)
 - Batch file
