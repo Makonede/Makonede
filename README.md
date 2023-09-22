@@ -10,7 +10,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 - HTML (HTML5)
 - PostCSS
 - TypeScript XML (ES2022)
-- Shell script (Bash)
+- Shell script (Zsh)
 - Batch file
 - 05AB1E
 
