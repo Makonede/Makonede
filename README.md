@@ -4,7 +4,7 @@
 
 # 👋🏻 Hi, I'm Makonede — but you can just call me **Mako**.
 I'm a hobbyist programmer in a variety of languages, including:
-- C++ (GNU++23)
+- C++ (GNU++26)
 - C (GNU23)
 - Python (CPython)
 - HTML (HTML5)
