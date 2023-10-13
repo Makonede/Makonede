@@ -8,10 +8,11 @@ I'm a hobbyist programmer in a variety of languages, including:
 - C (GNU23)
 - Python (CPython)
 - HTML (HTML5)
+- Svelte
 - PostCSS
 - TypeScript XML (ES2022)
 - Shell script (Zsh)
-- Batch file
+- PowerShell
 - 05AB1E
 
 # ✨ Current Projects
