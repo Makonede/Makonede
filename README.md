@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Makonede&layout=compact&langs_count=10&theme=tokyonight&border_color=ff8000&border_radius=50)
 
-# 👋🏻 Hi, I'm Makonede — but you can just call me **Mako**.
+# 👋 Hi, I'm Mako!
 I'm a hobbyist programmer in a variety of languages, including:
 - C++ (GNU++26)
 - C (GNU23)
