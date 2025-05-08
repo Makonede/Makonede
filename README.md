@@ -7,6 +7,7 @@ I'm a hobbyist programmer in a variety of languages, including:
 - C++ (GNU++26)
 - C (GNU23)
 - Python (CPython)
+- Rust
 - HTML (HTML5)
 - Svelte
 - PostCSS
